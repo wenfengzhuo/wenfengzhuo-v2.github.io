@@ -9,7 +9,7 @@ type: page
 * content
 {:toc}
 
-Wenfeng(Levi) Zhuo
+Wenfeng Zhuo
 =======================
 I am working as a Software Engineer for years and passionate about new technologies. I love coding - the coding which solves problems and makes a significant difference.
 
